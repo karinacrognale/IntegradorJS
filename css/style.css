@@ -1,0 +1,149 @@
+#container
+{
+    padding:0%;
+    margin:0%;
+      
+    
+}
+
+.navbar-brand
+{
+    color:white;
+    text-align: left;
+}
+
+h2
+{
+    text-align: center;
+}
+
+h6
+{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+
+.card-img-overlay
+{
+    text-align: right;
+    margin-left: 680px;
+    margin-right: 100px;
+    margin-top: 220px;
+    
+}
+
+.card-text
+{
+    
+    font-style: normal;
+}
+
+.boton-a
+{
+    background-color: transparent;
+    border-width: 1px;
+    border-color:lightgrey;
+    color:lightgray;
+    border-radius: 5px;
+    font-size: medium;   
+    padding: 10px 10px; 
+}
+.boton-b
+{
+    background-color: rgb(75, 202, 75);
+    border:gray;
+    color:white;
+    border-radius: 5px;
+    font-size: medium;  
+    padding: 10px 10px;   
+}
+
+.boton1
+{
+    background-color: gray;
+    border:none;
+    color:white;
+    border-radius: 5px;
+    font-size: small;
+}
+
+.boton2
+{
+    background-color: crimson;
+    border:none;
+    color:white;
+    border-radius: 5px;
+    font-size: small;
+}
+
+.boton3
+{
+    background-color: orange;
+    border:none;
+    color:black;
+    border-radius: 5px;
+    font-size: small;
+}
+
+.boton4
+{
+    background-color: rgb(62, 171, 235) ;
+    border:none;
+    color:white;
+    border-radius: 5px;
+    font-size: small;
+}
+
+.col-md-4
+{
+    align-items: center;
+}
+
+
+.col-md-8
+{
+    background-color: rgb(27, 27, 31);
+    color: white
+}
+
+u.subrayado-punteado
+{
+    border-bottom: 2px dotted black;
+    text-decoration: none; 
+   
+}
+
+.titulocharla
+{
+ color:gray;
+ font-size: smaller;
+}
+
+.botonlargo
+{
+    background-color:rgb(148, 209, 57);
+    border:none;
+    border-radius: 5px;
+    margin: 0px 0px;
+    color:white;
+    font-size: large;
+   
+    
+}
+
+.form-control
+{
+    text-align: left;
+}
+
+
+
+.card-group
+{
+    margin: 0px 300px;
+    text-align: center;
+   
+}
+
